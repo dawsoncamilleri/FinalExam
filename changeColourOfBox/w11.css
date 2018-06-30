@@ -1,0 +1,13 @@
+#box1{
+        background-color: lightblue;
+        margin: auto;
+        width: 200px;
+        height: 100px;
+        padding: 10px;
+        color: aliceblue;
+}
+
+#box1:hover
+{
+background-color: #000000;
+}
