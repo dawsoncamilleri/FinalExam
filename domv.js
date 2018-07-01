@@ -218,6 +218,47 @@ function checkpwd2(){
 //        pelemMsg.style.display = 'none';
 //        pelemMsg.innerHTML = '';
 //    }
+  
+  
+  //----------------------------------------
+ // var pelemMsg8;
+//
+//            var pelemMsg;
+//
+//    //    
+//    //    
+//    //    
+//    //    
+//          pelemMsg8 = document.getElementById('passChckWordErrMsg');
+//            pelemMsg8.style.display = 'none';
+//            pelemMsg8.innerHTML = '';
+//
+//    //    
+//    //    
+//    //     
+//    //    
+//    //
+//    //    
+//
+//
+//        if(this.id == 'password')
+//        {
+//            pelemMsg = document.getElementById('passChckWordErrMsg2');
+//            pelemMsg.style.display = 'none';
+//            pelemMsg.innerHTML = '';
+//        }
+//        else if(this.id == 'password')
+//        {
+//            pelemMsg = document.getElementById('passChckWordErrMsg');
+//            pelemMsg.style.display = 'none';
+//            pelemMsg.innerHTML = '';
+//        }
+//        else if(this.id == 'password')
+//        {
+//            pelemMsg = document.getElementById('passChckWordErrMsg');
+//            pelemMsg.style.display = 'none';
+//            pelemMsg.innerHTML = '';
+//        }
     
     
 }
